@@ -1,0 +1,14 @@
+{
+  "name": "akamai-solver",
+  "version": "1.0.0",
+  "description": "The purpose of this repo is to analyze how Akamai bot manager collects fingerprints, analyze how it works, and based on playwright, write some code to bypass it.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "MiddleSchoolStudent",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.45.3",
+    "prettier": "^3.3.3"
+  }
+}
