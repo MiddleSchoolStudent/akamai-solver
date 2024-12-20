@@ -1,8 +1,8 @@
 # Akamai Solver
 
-We have successfully used our **[BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)** for extensive testing with Akamai V2, V3 and were able to get very good \_abck without failing for a long time. Check out the video demo at playstation.com. The test code is [here](https://github.com/MiddleSchoolStudent/BotBrowser/blob/main/tests/tests/antibots/akamai.spec.ts).
+We have successfully used our **[BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)** for extensive testing with Akamai V2, V3 and were able to get very good \_abck without failing for a long time. The test code is [here](https://github.com/MiddleSchoolStudent/BotBrowser/blob/main/tests/tests/antibots/akamai.spec.ts).
 
-<video src="https://raw.githubusercontent.com/MiddleSchoolStudent/BotBrowser/main/tests/test-results/akamai-test-playstation-com-BotBrowser-antibots/video.webm"></video>
+<video src="https://raw.githubusercontent.com/MiddleSchoolStudent/BotBrowser/main/tests/test-results/akamai-test-playstation-com-BotBrowser-antibots/video.webm" />
 
 ---
 
