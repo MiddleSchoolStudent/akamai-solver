@@ -2,7 +2,7 @@
 
 We have successfully used our **[BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)** for extensive testing with Akamai V2, V3 and were able to get very good \_abck without failing for a long time. The test code is [here](https://github.com/MiddleSchoolStudent/BotBrowser/blob/main/tests/tests/antibots/akamai.spec.ts).
 
-<video src="https://raw.githubusercontent.com/MiddleSchoolStudent/BotBrowser/main/tests/test-results/akamai-test-playstation-com-BotBrowser-antibots/video.webm" />
+[video.webm](https://github.com/user-attachments/assets/13f99279-3e9d-4d22-b227-fcedad833472)
 
 ---
 
