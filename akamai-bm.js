@@ -1,3 +1,9 @@
+/**
+ * ⚠️ ACADEMIC RESEARCH USE ONLY
+ * For authorized testing environments that comply with all applicable laws.
+ * See: https://github.com/botswin/Akamai-Reverse/blob/main/DISCLAIMER.md
+ */
+
 (function BUUTkIyZtB() {
   wC();
   A01();

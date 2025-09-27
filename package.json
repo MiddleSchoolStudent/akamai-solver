@@ -1,10 +1,9 @@
 {
-  "name": "akamai-solver",
+  "name": "Akamai-Reverse",
   "version": "1.0.0",
-  "description": "The purpose of this repo is to analyze how Akamai bot manager collects fingerprints, analyze how it works, and based on playwright, write some code to bypass it.",
+  "description": "Academic research framework for studying Akamai Bot Manager mechanisms and fingerprinting techniques in authorized testing environments",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "MiddleSchoolStudent",
   "license": "MIT",
   "dependencies": {
