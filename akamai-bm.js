@@ -1,6 +1,7 @@
 /**
- * ⚠️ ACADEMIC RESEARCH USE ONLY
- * For authorized testing environments that comply with all applicable laws.
+ * ⚠️ PRIVACY RESEARCH USE ONLY
+ * Run exclusively inside authorized anti-tracking labs with synthetic data only.
+ * Never target production traffic or violate any Terms of Service.
  * See: https://github.com/botswin/Akamai-Reverse/blob/main/DISCLAIMER.md
  */
 

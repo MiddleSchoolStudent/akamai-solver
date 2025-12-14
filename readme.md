@@ -1,32 +1,32 @@
-# Akamai Security Research
+# Akamai Privacy Research
 
-## ⚠️ ACADEMIC RESEARCH USE ONLY
+## ⚠️ PRIVACY RESEARCH USE ONLY
 
-**📋 [Complete Legal Disclaimer & Terms of Use →](DISCLAIMER.md)**
+**📋 [Complete Legal Disclaimer and Terms of Use](DISCLAIMER.md)**
 
-This repository is designed for **academic research and authorized security analysis** of bot detection mechanisms in controlled environments that comply with all applicable laws and institutional ethics guidelines.
+This repository is designed for **privacy fingerprint research and authorized security analysis** of bot detection mechanisms in controlled environments that comply with all applicable laws and institutional ethics guidelines.
 
 ---
 
 ## Research Overview
 
-This repository contains educational materials for **security researchers** studying bot detection systems and fingerprinting methodologies in **authorized testing environments**. The research focuses on understanding Akamai Bot Manager mechanisms for academic and security education purposes.
+This repository contains educational materials for **researchers** studying bot detection systems and fingerprinting methodologies in **authorized testing environments**. The research focuses on understanding Akamai Bot Manager mechanisms for privacy protection and security education.
 
 ## Educational Components
 
 ### Analysis Tools
 
-1. **akamai-bm.js** - Deobfuscated Akamai Bot Manager code for educational analysis
-2. **Playwright integration** - Educational framework for browser automation research
-3. **Fingerprinting analysis** - Academic study of detection mechanisms
+1. **akamai-bm.js** - Deobfuscated Akamai Bot Manager code for privacy-focused analysis
+2. **Playwright integration** - Educational framework for browser automation in controlled research
+3. **Fingerprinting analysis** - Study of detection mechanisms with a privacy lens
 
 ### Research Applications
 
-- **Bot detection studies** for understanding anti-automation techniques
-- **Fingerprinting methodology research** for security education
-- **Browser automation analysis** for academic purposes
-- **TLS fingerprinting studies** for educational frameworks
-- **Security mechanism analysis** for research institutions
+-   **Bot detection studies** for understanding anti-automation and tracking techniques
+-   **Fingerprinting methodology research** for privacy and security education
+-   **Browser automation analysis** for authorized research
+-   **TLS fingerprinting studies** for teaching and evaluation
+-   **Security mechanism analysis** for research institutions
 
 ---
 
@@ -36,16 +36,16 @@ This repository contains educational materials for **security researchers** stud
 
 The repository demonstrates educational approaches to:
 
-- Static analysis of bot detection mechanisms
-- Understanding fingerprinting collection techniques
-- Browser automation in controlled research environments
-- Educational analysis of anti-bot systems
-- Academic study of web security implementations
+-   Static analysis of bot detection mechanisms
+-   Understanding fingerprint collection techniques
+-   Browser automation in controlled research environments
+-   Educational analysis of anti-bot systems
+-   Academic study of web security implementations
 
 ### Dependencies & Tools
 
-- **playwright** - Browser automation for authorized testing
-- **prettier** - Code formatting for research documentation
+-   **playwright** - Browser automation for authorized testing
+-   **prettier** - Code formatting for research documentation
 
 ### Installation for Research
 
@@ -61,30 +61,30 @@ npm install
 
 This research framework is valuable for:
 
-- **Security education** - Understanding bot detection and prevention mechanisms
-- **Web security research** - Analyzing fingerprinting and detection techniques
-- **Browser automation studies** - Educational browser automation methodologies
-- **Defensive programming education** - Teaching anti-automation concepts
-- **Cybersecurity curriculum** - Educational materials for academic institutions
+-   **Security education** - Understanding bot detection, tracking, and prevention mechanisms
+-   **Web security research** - Analyzing fingerprinting and detection techniques
+-   **Browser automation studies** - Educational browser automation methodologies
+-   **Defensive programming education** - Teaching anti-automation concepts
+-   **Cybersecurity curriculum** - Educational materials for academic institutions
 
 ## Important Usage Guidelines
 
-⚠️ **This repository is strictly for academic research and authorized security analysis**
+⚠️ **This repository is strictly for privacy fingerprint research and authorized security analysis**
 
 ### Requirements
 
-- Only use in **controlled testing environments**
-- Ensure **proper institutional approval** before conducting research
-- Comply with all applicable **laws and regulations**
-- Respect **terms of service** of all systems
-- Follow **ethical research guidelines**
-- Obtain **explicit authorization** for any testing activities
+-   Only use in **controlled testing environments**
+-   Ensure **proper institutional approval** before conducting research
+-   Comply with all applicable **laws and regulations**
+-   Respect **terms of service** of all systems
+-   Follow **ethical research guidelines**
+-   Obtain **explicit authorization** for any testing activities
 
 ### Research Notes
 
-- TLS fingerprinting detection requires careful consideration in research design
-- Browser-based approaches are recommended for authentic research environments
-- Educational analysis should focus on understanding defensive mechanisms
+-   TLS fingerprinting detection requires careful consideration in research design
+-   Browser-based approaches are recommended for authentic research environments
+-   Educational analysis should focus on understanding defensive mechanisms
 
 ## Compliance Notice
 

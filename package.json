@@ -1,10 +1,10 @@
 {
-  "name": "Akamai-Reverse",
+  "name": "Akamai-Privacy-Research",
   "version": "1.0.0",
-  "description": "Academic research framework for studying Akamai Bot Manager mechanisms and fingerprinting techniques in authorized testing environments",
+  "description": "Privacy research toolkit for analyzing Akamai Bot Manager fingerprint collection inside authorized anti-tracking labs",
   "main": "index.js",
   "scripts": {},
-  "author": "MiddleSchoolStudent",
+  "author": "MSTU0",
   "license": "MIT",
   "dependencies": {
     "playwright": "^1.45.3",
